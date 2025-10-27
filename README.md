@@ -1,6 +1,6 @@
 <!-- Profile README for Sanjeev -->
 
-<h1 align="center">
+<h1>
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=222222&width=435&lines=Hi%2C+I'm+Sanjeev+%F0%9F%91%8B;I%E2%80%99m+a+Full+Stack+Developer+%F0%9F%92%BB;I+build+modern+web+apps+using+React+%26+Node.js+%F0%9F%9A%80;Passionate+about+coding+and+clean+UI+%E2%9C%A8" alt="Typing SVG" />
 </a>
